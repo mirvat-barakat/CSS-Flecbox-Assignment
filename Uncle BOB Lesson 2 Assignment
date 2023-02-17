@@ -1,0 +1,24 @@
+Uncle Bob continues his second part of the lecture by having a quick change of topic into a discussion 
+ about the origin of the moon and then continue with explaining the basics for a clean code.
+
+*Comments: 
+comments could be good and could be really bad and should not be commented on.
+The proper use of a comment is to look at the comment as an unfortunate necessity.
+We should not try to fix bad code by adding comments.
+
+Bad comments include: mumbling, redundant comments where it takes more time to understand than the code,
+ mandated comments, journal comments, noise comments, closing brace comments, attribution comments,
+and comments outside the code.
+
+*Vertical formatting: file size is not a function of project size statistics show that there is no correlation between file size and distribution.
+
+*Horizontal formatting: the fact that our screens are getting bigger does not affect the code lines' length.
+
+*Names: there are some naming rules to take into consideration including:
+Variable name length should be proportional to the scope.
+Name of the function is inveresly proportional to the size of the scope and it is the same for classes.
+
+ 
+
+
+
